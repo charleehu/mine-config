@@ -1,5 +1,3 @@
-## My Config
-
 ### vim
 .vimrc
 
