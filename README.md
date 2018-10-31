@@ -1,5 +1,5 @@
 ### vim
-.vimrc
+[.vimrc](https://github.com/charleehu/mine-config/blob/master/.vimrc)
 
 ### Terminal
 [A dark theme for Terminal.app](https://github.com/dracula/terminal-app)
