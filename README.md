@@ -3,6 +3,7 @@
 
 ### Terminal
 [a replacement for Terminal](https://www.iterm2.com/)
+
 [A dark theme for Terminal](https://github.com/dracula/terminal-app)
 
 ### IntelliJ IDEA
