@@ -2,7 +2,8 @@
 [.vimrc](https://github.com/charleehu/mine-config/blob/master/.vimrc)
 
 ### Terminal
-[A dark theme for Terminal.app](https://github.com/dracula/terminal-app)
+[a replacement for Terminal](https://www.iterm2.com/)
+[A dark theme for Terminal](https://github.com/dracula/terminal-app)
 
 ### IntelliJ IDEA
  * Font: Consolas
